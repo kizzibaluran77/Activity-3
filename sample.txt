@@ -1,0 +1,7 @@
+Node.js lets you run JavaScript outside the browser.
+It is great for building command line tools.
+
+Reading files is one of the most common tasks.
+The fs/promises module makes it clean and modern.
+
+Always handle errors, because files go missing.
